@@ -1,4 +1,6 @@
 # Test Repository with Vulnerabilities
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCampus-Media%2Ftest-repo-with-vulns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCampus-Media%2Ftest-repo-with-vulns?ref=badge_shield)
+
 
 ⚠️ **WARNING: This repository contains intentionally vulnerable dependencies for testing purposes only!**
 
@@ -62,3 +64,7 @@ When scanned by SBOM-Link, this repository should generate:
 # Final webhook test - Sun Jun 22 18:10:47 PDT 2025
 # Webhook URL test - Mon Jun 23 09:08:10 PDT 2025
 # Testing push event handling - Mon Jun 23 09:56:42 PDT 2025
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCampus-Media%2Ftest-repo-with-vulns.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCampus-Media%2Ftest-repo-with-vulns?ref=badge_large)
