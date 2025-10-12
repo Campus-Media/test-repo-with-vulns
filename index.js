@@ -52,11 +52,11 @@ app.listen(PORT, () => {
   console.log('This app contains intentionally vulnerable dependencies for testing:');
   console.log('- lodash 4.17.15 (prototype pollution)');
   console.log('- axios 0.21.1 (SSRF)');
-  console.log('- moment 2.29.1 (ReDoS)');
+  console.log('- moment 2.29.4 (ReDoS)');
   console.log('- express 4.17.1 (various CVEs)');
   console.log('- jquery 3.6.0 (XSS)');
   console.log('- bootstrap 4.6.0 (XSS)');
   console.log('- react 16.14.0 (various CVEs)');
 });
 
-module.exports = app; 
+module.exports = app;
